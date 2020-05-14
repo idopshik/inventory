@@ -3,13 +3,13 @@
  - flask app for workshop - to keep the toolset simple. Which worker has
 worker has any special tool.
 
- - Forms for making reques.
+ - Forms for making requests.
  - Forms to create stuff.
- - Forms to reuse already given by somebody else tool.
+ - Forms to reuse already created tools.
  - Postgres
  - Unitests
- - Securyty
+ - Security
 
 
-(Maiby it doesn't make any sence but the main purpose of app actually to
+(Maybe it doesn't make any sence but the main purpose of app - to actually
 make me write it!)
